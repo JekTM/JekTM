@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<<<<<<< HEAD
+
 hellooooooo
-=======
-hello
-this is a test
-hi sammm!!!!
-kjflksdjlkf
->>>>>>> abb9c49de81892f265ebd7ae2fb889822ed14962
